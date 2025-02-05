@@ -1,1 +1,22 @@
 contents
+📌 Project Write-Up (README.md)
+
+🔹 Business Problem & Objectives
+
+🔹 Data Sources & Ethical Considerations
+
+🔹 Data Cleaning & Methodology
+
+🔹 Key Insights & Findings
+
+🔹 Dashboard Link & GitHub Repo
+
+bash
+CopyEdit
+📂 tech-job-market-analysis
+ ┣ 📂 data_raw/       # Original downloaded datasets
+ ┣ 📂 data_clean/     # Processed, structured data
+ ┣ 📂 notebooks/      # Jupyter notebooks with EDA & modeling
+ ┣ 📂 dashboards/     # Power BI/Tableau files
+ ┣ 📜 README.md       # Project documentation
+ ┗ 📜 requirements.txt # Dependencies
